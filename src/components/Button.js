@@ -12,6 +12,7 @@ text-decoration:none;
 transition:0.3s;
 dispaly:flex;
 justify-content:center;
+border-radius:10px;
 align-items:center;
 padding:${({big})=>(big?'16px 40px':'14px 24px')};
 color:${({primary})=>(primary?"#fff":"#000d1a")};

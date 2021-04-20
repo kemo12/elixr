@@ -6,9 +6,9 @@ function App() {
    <>
    <GlobalStyle/>
    <Navbar/>
-   <h1>FDSF</h1>
    </>
   );
 }
 
 export default App;
+    
