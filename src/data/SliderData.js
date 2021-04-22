@@ -7,7 +7,7 @@ export const SliderData=[
         title:'Luxury Villa in Bali, Indonesia',
         price:'$4,280,000',
         path: '/homes',
-        lable:'View Home',
+        label:'View Home',
         image:imageOne,
         alt:'House'
  
@@ -16,7 +16,7 @@ export const SliderData=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageTwo,
     alt:'House'
 
@@ -25,7 +25,7 @@ export const SliderData=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageThree,
     alt:'House'
 
@@ -34,7 +34,7 @@ export const SliderData=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageFour,
     alt:'House'
 
@@ -45,7 +45,7 @@ export const SliderDataTwo=[
         title:'Luxury Villa in Bali, Indonesia',
         price:'$4,280,000',
         path: '/homes',
-        lable:'View Home',
+        label:'View Home',
         image:imageOne,
         alt:'House'
  
@@ -54,7 +54,7 @@ export const SliderDataTwo=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageTwo,
     alt:'House'
 
@@ -63,7 +63,7 @@ export const SliderDataTwo=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageThree,
     alt:'House'
 
@@ -72,7 +72,7 @@ export const SliderDataTwo=[
     title:'Luxury Villa in Bali, Indonesia',
     price:'$4,280,000',
     path: '/homes',
-    lable:'View Home',
+    label:'View Home',
     image:imageFour,
     alt:'House'
 
