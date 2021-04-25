@@ -45,9 +45,13 @@ align-items:center;
     order:${({reverse})=>(reverse?'2':'1')};
 }
 img{
-    width:100%;
-    height:100%;
+    width:70%;
+    height:70%;
     object-fit:cover; 
+    &:hover{
+        transform: scale(1.3);
+ 
+};
     @media screen and (max-width:768px){
         width:90%;
         height:90%;
@@ -71,7 +75,6 @@ const Infosection = ({
                 <p>{paragraphOne}</p>
                 <p>{paragraphTwo}</p>
                 <Button to="/home" primary='true'>{ButtonLabel}</Button>
-
                 </ColumnLeft>
                 <ColumnRight reverse={reverse}>
                 <img src={image} alt="home"/>
